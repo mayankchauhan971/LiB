@@ -87,7 +87,7 @@ a{
 	text-decoration: none;
 }
 
-input::placeholder{
+input::placeholder, textarea::placeholder{
 	font-size: 0.8rem;
 }
 
